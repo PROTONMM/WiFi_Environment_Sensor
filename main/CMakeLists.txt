@@ -1,5 +1,5 @@
 idf_component_register(
-				SRCS main.c
+				SRCS main.c aht15_task.c 
 				INCLUDE_DIRS ""
 				EMBED_FILES ""
                 )
